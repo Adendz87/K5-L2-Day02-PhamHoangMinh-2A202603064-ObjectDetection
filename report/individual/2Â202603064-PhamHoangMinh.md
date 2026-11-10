@@ -4,12 +4,12 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Họ tên: Phạm Hoàng Minh
+- MSSV: 2A202603064
+- Email: [EMAIL_ADDRESS]
+- Lớp: K5-L2-2A
+- Link repo bài làm: https://github.com/Adendz87/K5-L2-Day02-PhamHoangMinh-2A202603064-ObjectDetection
+- Link Colab đã chạy: 
 
 ## 2. Schema và mini guideline
 
@@ -27,14 +27,14 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 | Chỉ số | Trước sửa | Sau sửa nếu có |
 |---|---:|---:|
-| TP | | |
-| FP | | |
-| FN | | |
-| Precision | | |
-| Recall | | |
-| F1 | | |
-| mean_iou_of_matches | | |
-| passed | | |
+| TP | | | : 457
+| FP | | | : 387
+| FN | | | : 196
+| Precision | | | : 0.5415
+| Recall | | | : 0.6998
+| F1 | | | : 0.6106
+| mean_iou_of_matches | | : 0.8580
+| passed | | | : true
 
 Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ.
 
